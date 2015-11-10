@@ -1,0 +1,616 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bread and Cheese Creek WQ Enhancements",
+        "description": "1,700 LF of stream restoration and 1 acre of riparian buffer",
+        "title": "Bread and Cheese Creek WQ Enhancements",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "sitetype": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.499611,
+          39.281029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Back River SWM Pond Conversion",
+        "description": "One of several ponds being upgraded to current standards",
+        "title": "Upper Back River SWM Pond Conversion",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "sitetype": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.517364,
+          39.379148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Branch North Fork Stream Restoration",
+        "description": "8,000 linear feet of stream restoration and floodplain reconnection along with innnovative water quality improvement practices",
+        "title": "West Branch North Fork Stream Restoration (Permit phase)",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "sitetype": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.746046,
+          39.386341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magnolia Run Stream Restoration",
+        "description": "477 LF of stream restoration along a tributary to White Marsh Run",
+        "title": "Magnolia Run Stream Restoration",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "sitetype": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.459308,
+          39.390836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herring Run Overlook Stream Restoration",
+        "description": "3,000 LF of stream restoration; 3.4ac of forest buffer",
+        "title": "Herring Run Overlook Stream Restoration",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "sitetype": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58606,
+          39.37547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gardens of Bel Air Stormwater Retrofit",
+        "description": "This project increases water quality and decreases stormwater discharges.",
+        "title": "Gardens of Bel Air Stormwater Retrofit",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "sitetype": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.333489,
+          39.493057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dead Run at Westview Park Stream Restoration",
+        "description": "3,000 LF of stream restoration; 3.4ac of forest buffer",
+        "title": "Dead Run at Westview Park Stream Restoration",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "sitetype": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.585854,
+          39.375469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jones Falls Stream Restoration ",
+        "description": "Construction of restoration project which will replace 600 feet of concrete channel with natural stream channel and adjacent vegetated floodplain.  Monitoring Planned: Brightwater will develop a stability monitoring program by establishing monuments for annual surveys of cross sections and a thalweg profile. Stability monitoring will also include annual pebble counts to monitor particle size distribution of materials in bed and banks. Brightwater will prepare an annual report of the results of this monitoring. The Maryland Fisheries Service, a partner in this project, will conduct annual aquatic life surveys to document the condition of the biological community in the restored reach. The biological monitoring effort will include fish and macroinvertebrates. ",
+        "title": "Jones Falls Stream Restoration (FY2014)",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "sitetype": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": "marker-ig8cda1x0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.662447,
+          39.396208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Gunpowder at Proctor Stream Restoration",
+        "description": "8,000 linear feet of stream restoration and floodplain reconnection along with innnovative water quality improvement practices",
+        "title": "Lower Gunpowder at Proctor Stream Restoration (Permit Phase)",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "sitetype": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.47893,
+          39.410696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Country Walk Stormwater Retrofit 1A",
+        "description": "This retrofit will be designed to increase water quality and decreases stormwater discharges.",
+        "title": "Country Walk Stormwater Retrofit 1A",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "sitetype": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.332668,
+          39.489167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Festival Stormwater Retrofit",
+        "description": "This retrofit will be designed to increase water quality and decreases stormwater discharges.",
+        "title": "Stormwater Retrofit BMP",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "sitetype": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.326853,
+          39.493049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Country Walk Stormwater Retrofit 1B",
+        "description": "This retrofit will be designed to increase water quality and decreases stormwater discharges.",
+        "title": "Stormwater Retrofit BMP",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "sitetype": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.329473,
+          39.490651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f86767",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#e7857f",
+        "fill-opacity": 0.5,
+        "name": "Lower Wheel Creek Stream Restoration",
+        "description": "Lower Wheel Creek Stream Restoration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.33927345275879,
+              39.48208357812001
+            ],
+            [
+              -76.33811473846436,
+              39.48347473310234
+            ],
+            [
+              -76.33575439453125,
+              39.483839078618324
+            ],
+            [
+              -76.33438110351562,
+              39.48433591033674
+            ],
+            [
+              -76.33378028869629,
+              39.487084981687495
+            ],
+            [
+              -76.33455276489258,
+              39.4868531364927
+            ],
+            [
+              -76.33532524108887,
+              39.485130833703444
+            ],
+            [
+              -76.33609771728516,
+              39.48450152012079
+            ],
+            [
+              -76.33828639984131,
+              39.48426966631269
+            ],
+            [
+              -76.34000301361084,
+              39.483275998379995
+            ],
+            [
+              -76.34043216705321,
+              39.482746036344
+            ],
+            [
+              -76.33927345275879,
+              39.48208357812001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f86767",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#e7857f",
+        "fill-opacity": 0.5,
+        "name": "Lower Wheel Creek Stream Restoration",
+        "description": "Lower Wheel Creek Stream Restoration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.33433818817139,
+              39.487681151496055
+            ],
+            [
+              -76.33373737335205,
+              39.48783019314957
+            ],
+            [
+              -76.33382320404053,
+              39.48893971541791
+            ],
+            [
+              -76.3340163230896,
+              39.49051288828579
+            ],
+            [
+              -76.33386611938475,
+              39.49165548626446
+            ],
+            [
+              -76.33382320404053,
+              39.49195355221426
+            ],
+            [
+              -76.33463859558105,
+              39.491920433838494
+            ],
+            [
+              -76.3345742225647,
+              39.49077784021395
+            ],
+            [
+              -76.33450984954833,
+              39.489304032301646
+            ],
+            [
+              -76.33433818817139,
+              39.487681151496055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f86767",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#e7857f",
+        "fill-opacity": 0.5,
+        "name": "Lower Wheel Creek Stream Restoration",
+        "description": "Lower Wheel Creek Stream Restoration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.3334047794342,
+              39.48783019314957
+            ],
+            [
+              -76.33299708366394,
+              39.4883435563998
+            ],
+            [
+              -76.3328093290329,
+              39.48856297663283
+            ],
+            [
+              -76.33318483829498,
+              39.488881755737665
+            ],
+            [
+              -76.33353352546692,
+              39.48864577654082
+            ],
+            [
+              -76.3336569070816,
+              39.48831457631726
+            ],
+            [
+              -76.33341550827026,
+              39.48781363298164
+            ],
+            [
+              -76.3334047794342,
+              39.48783019314957
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f86767",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#e7857f",
+        "fill-opacity": 0.5,
+        "name": "Upper Wheel Creek Stream Restoration",
+        "description": "Upper Wheel Creek Stream Restoration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.32833003997803,
+              39.4911794060553
+            ],
+            [
+              -76.32802426815032,
+              39.49116284668501
+            ],
+            [
+              -76.32777750492096,
+              39.491187685738964
+            ],
+            [
+              -76.32747709751129,
+              39.49138225802128
+            ],
+            [
+              -76.32739126682281,
+              39.49167204551743
+            ],
+            [
+              -76.3274073600769,
+              39.49201564912629
+            ],
+            [
+              -76.32761120796204,
+              39.49196183180574
+            ],
+            [
+              -76.32762193679808,
+              39.49177968056552
+            ],
+            [
+              -76.32780969142914,
+              39.49149817316467
+            ],
+            [
+              -76.32807791233063,
+              39.491419516481315
+            ],
+            [
+              -76.32826566696166,
+              39.491411236825236
+            ],
+            [
+              -76.32833003997803,
+              39.4911794060553
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f86767",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#e7857f",
+        "fill-opacity": 0.5,
+        "name": "Upper Wheel Creek Stream Restoration",
+        "description": "Upper Wheel Creek Stream Restoration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.33116245269775,
+              39.49400686070092
+            ],
+            [
+              -76.33066892623901,
+              39.494164168124286
+            ],
+            [
+              -76.33044362068176,
+              39.494354592423704
+            ],
+            [
+              -76.32997155189514,
+              39.49505832987404
+            ],
+            [
+              -76.32959604263304,
+              39.49606010854399
+            ],
+            [
+              -76.32974624633789,
+              39.496382992807504
+            ],
+            [
+              -76.33007884025572,
+              39.49628364396308
+            ],
+            [
+              -76.33042216300963,
+              39.495199076509216
+            ],
+            [
+              -76.33081912994385,
+              39.494586412605955
+            ],
+            [
+              -76.33103370666504,
+              39.494387709639945
+            ],
+            [
+              -76.33116245269775,
+              39.49400686070092
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81769371032715,
+          39.2307406264432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f86767",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Salterforth Pond 1 and 2",
+        "description": "Retrofit 2 exisiting dry ponds, which treat 36 acres of residential development",
+        "title": "Salterforth Pond 1 and 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81045174598694,
+          39.2392834165852
+        ]
+      }
+    }
+  ]
+}
